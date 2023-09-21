@@ -20,5 +20,25 @@ namespace _04B1B2ShapeLib
             _email = email;
             _password = password;
         }
+
+        public int Id
+        {
+            get { return _id; }
+        }
+
+        public string Name
+        {
+            get { return _name;  }
+        }
+
+        public string Email
+        {
+            get { return _email; }
+        }
+
+        public string Password
+        {
+            get { return _password; }
+        }
     }
 }
