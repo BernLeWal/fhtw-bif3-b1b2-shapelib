@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04B1B2ShapeLib", "_04B1B2ShapeLib\_04B1B2ShapeLib.csproj", "{7A5CAF3D-EC2F-47C4-B23C-4883217E45A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5CAF3D-EC2F-47C4-B23C-4883217E45A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5CAF3D-EC2F-47C4-B23C-4883217E45A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5CAF3D-EC2F-47C4-B23C-4883217E45A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5CAF3D-EC2F-47C4-B23C-4883217E45A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1557D452-98B0-4379-B012-5F71C5663639}
+	EndGlobalSection
+EndGlobal
