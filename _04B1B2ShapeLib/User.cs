@@ -41,7 +41,7 @@ namespace _04B1B2ShapeLib
             get { return _password; }
         }
 
-
+        // and add a header, too.
         // add a better documentation of User/EventHandler
         public void EventHandler(object? sender, EventArgs e)
         {
