@@ -42,9 +42,9 @@ namespace _04B1B2ShapeLib
         }
 
         // added some text manually during merge
-
-        // add some documentation to the EventHandler
-        // add a second line with docu
+        // and add a header, too.
+        // add a better documentation of User/EventHandler
+        // added a second line of better documentation
         public void EventHandler(object? sender, EventArgs e)
         {
             Console.WriteLine($"User {Name} was informed by {sender} of {e}");
