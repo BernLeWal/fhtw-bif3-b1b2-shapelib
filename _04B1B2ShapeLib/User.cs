@@ -42,6 +42,7 @@ namespace _04B1B2ShapeLib
         }
 
 
+        // add a better documentation of User/EventHandler
         public void EventHandler(object? sender, EventArgs e)
         {
             Console.WriteLine($"User {Name} was informed by {sender} of {e}");
