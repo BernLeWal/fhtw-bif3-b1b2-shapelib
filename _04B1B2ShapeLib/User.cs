@@ -43,6 +43,7 @@ namespace _04B1B2ShapeLib
 
         // and add a header, too.
         // add a better documentation of User/EventHandler
+        // added a second line of better documentation
         public void EventHandler(object? sender, EventArgs e)
         {
             Console.WriteLine($"User {Name} was informed by {sender} of {e}");
